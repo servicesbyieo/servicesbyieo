@@ -1,5 +1,6 @@
-- 👋 Hi, Welcome @servicesbyieo
-- 👀 We’re interested in supervised machine learning and data analysis projects 
+- 👋 Hi, Welcome to ### Services By IEO
+  Services providing network based LLC 
+- 👀 We’re interested in 
 - 🌱 We are also working for frontend web development projects
 - 💞️ We are looking to collaborate with other ML engineers 
 - 📫 Contact us on links shared with our profile
