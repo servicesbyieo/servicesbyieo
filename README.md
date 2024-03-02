@@ -1,4 +1,4 @@
-- 👋 Hi, We are @servicesbyieo
+- 👋 Hi, Welcome @servicesbyieo
 - 👀 We’re interested in supervised machine learning and data analysis projects 
 - 🌱 We are also working for frontend web development projects
 - 💞️ We are looking to collaborate with other ML engineers 
